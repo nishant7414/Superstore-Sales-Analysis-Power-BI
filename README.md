@@ -7,10 +7,10 @@ An end-to-end Business Intelligence dashboard built in Power BI to analyze histo
 ## 📸 Dashboard Preview
 
 ### Main Sales Dashboard
-![SuperStore Sales Dashboard](screenshots/dashboard_overview.png)
+![SuperStore Sales Dashboard](dashboard_overview.png)
 
 ### Sales Forecast Dashboard
-![SuperStore Sales Forecast](screenshots/sales_forecast.png)
+![SuperStore Sales Forecast](sales_forecast.png)
 
 ---
 
