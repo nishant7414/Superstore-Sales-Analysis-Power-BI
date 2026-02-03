@@ -4,6 +4,16 @@ An end-to-end Business Intelligence dashboard built in Power BI to analyze histo
 
 ---
 
+## 📸 Dashboard Preview
+
+### Main Sales Dashboard
+![SuperStore Sales Dashboard](screenshots/dashboard_overview.png)
+
+### Sales Forecast Dashboard
+![SuperStore Sales Forecast](screenshots/sales_forecast.png)
+
+---
+
 ## 🔍 Project Overview
 
 The SuperStore Sales Dashboard is an interactive analytics solution designed to help stakeholders understand sales performance across multiple business dimensions such as customer segments, product categories, shipping modes, and geographic regions.
@@ -243,5 +253,5 @@ This project demonstrates how retail transactional data can be transformed into 
 
 It combines descriptive analytics, visual storytelling, and predictive forecasting into a single interactive dashboard that supports real-world business decision making.
 
-This project is ideal for showcasing skills in:
-Data Analytics • Business Intelligence • Power BI • Forecasting • Dashboard Design
+This project is ideal for showcasing skills in:  
+**Data Analytics • Business Intelligence • Power BI • Forecasting • Dashboard Design**
